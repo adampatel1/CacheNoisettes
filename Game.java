@@ -1,12 +1,8 @@
 import javax.swing.*;
 
 import java.awt.*;
-/**
- * This class contains the main method and uses the Squirrel and CacheNoisettes class to display the game. 
- * @author Adam Patel
- */
 
-public class program {
+public class Program {
     /**
     * 
      *This is the main method.
